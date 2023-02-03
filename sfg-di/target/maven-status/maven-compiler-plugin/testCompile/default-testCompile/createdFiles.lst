@@ -1,0 +1,4 @@
+UAccademy\sfgdi\controllers\ConstructorInjectedControllerTest.class
+UAccademy\sfgdi\controllers\PropertyInjectionControllerTest.class
+UAccademy\sfgdi\SfgDiApplicationTests.class
+UAccademy\sfgdi\controllers\SetterInjectedControllerTest.class

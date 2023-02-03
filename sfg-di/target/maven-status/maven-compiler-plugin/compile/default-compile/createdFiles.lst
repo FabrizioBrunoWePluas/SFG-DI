@@ -1,0 +1,7 @@
+UAccademy\sfgdi\controllers\PropertyInjectionController.class
+UAccademy\sfgdi\SfgDiApplication.class
+UAccademy\sfgdi\controllers\ConstructorInjectedController.class
+UAccademy\sfgdi\service\GreetingService.class
+UAccademy\sfgdi\service\GreetingServiceImpl.class
+UAccademy\sfgdi\controllers\MyController.class
+UAccademy\sfgdi\controllers\SetterInjectedController.class
